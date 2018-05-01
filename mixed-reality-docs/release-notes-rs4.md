@@ -25,8 +25,8 @@ To update to the latest release for each device, open the **Settings** app, go t
 
 The Windows 10 April 2018 Update includes many improvements for using Windows Mixed Reality headsets with your desktop PC, such as: 
 
-* A brand-new environment called Sky Loft that you can navigate to by selecting Places on the Mixed Reality Start menu.
-* Support for haptic feedback when using motion controllers in SteamVR games in combination with the latest version of SteamVR bridge for Windows Mixed Reality
+* A brand-new environment called Skyloft that you can navigate to by selecting Places on the Mixed Reality Start menu.
+* Support for haptic feedback when using motion controllers in SteamVR games in combination with the latest version of Windows Mixed Reality for SteamVR.
 * Improved performance in SteamVR games with lower video RAM usage. Live video preview in the Mixed Reality Portal on desktop is also more performant. 
 * You can now take mixed reality photos directly from your controller by holding the Windows button and then tapping the trigger. This works across environments and apps except for capturing content protected with DRM.
 * The automatic performance settings have been updated to provide an optimized experience, and we’ve added a new setting to override the default in Settings > Mixed Reality > Headset display.
@@ -38,7 +38,7 @@ We've worked hard to deliver a great Windows Mixed Reality experience, but we're
 
 
 ### Visual quality
-* If you notice after the April 2018 upgrade that graphics is more blurry or the Field of view looks smaller on your headset, the automatic performance setting is using low visual quality in order to maintain a sufficient framerate on a less powerful graphics card (such as Nvidia 1050).  You can manually override this if you choose by changing Settings > Mixed Reality > Headset display > Experience option to 90hz, then changing visual quality (on the same Settings page)to High.
+* If you notice after the April 2018 upgrade that graphics is more blurry or the field of view looks smaller on your headset, the automatic performance setting is using low visual quality in order to maintain a sufficient framerate on a less powerful graphics card (such as Nvidia 1050).  You can manually override this if you choose by changing Settings > Mixed Reality > Headset display > Experience options to 90hz, then changing visual quality (on the same Settings page)to High.
 
 ### Windows Mixed Reality setup
 * When setting up Windows with a headset connected, your PC monitor may go blank. Unplug your headset to enable output to your PC monitor to complete Windows setup.
